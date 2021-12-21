@@ -1,0 +1,82 @@
+.headerCenter {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+
+  &-search {
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+
+    &-logo {
+      max-width: 182px;
+    }
+
+    &-container {
+      margin-left: 40px;
+      display: flex;
+      align-items: center;
+      border: 1px solid #CED4D9;
+      border-radius: 4px;
+      padding: 12px 14px;
+
+      &-input {
+        width: 252px;
+        outline: none;
+        border: none;
+        margin-left: 10px;
+        font-size: 14px;
+
+        &::placeholder {
+          color: #737980;
+          font-size: 14px;
+        }
+      }
+
+      &-btn {
+        border: none;
+        background: none;
+        cursor: pointer;
+      }
+    }
+  }
+
+  &-info {
+    display: flex;
+    align-items: center;
+
+    &-item {
+      display: flex;
+      align-items: center;
+      margin-right: 40px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      &-icon {
+        width: 22px;
+        height: 22px;
+        margin-right: 20px;
+      }
+
+      &-container {
+        &-title {
+            font-size: 12px;
+            color: #737373;
+        }
+
+        &-span {
+          font-size: 14px;
+          color: #2E3033;
+          display: flex;
+
+          .fraction {
+            margin: 0 5px;
+          }
+        }
+      }
+    }
+  }
+}

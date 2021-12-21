@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>719C49E5-1635-401B-BE91-4ACD9106721D</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sākumlapa" transform="translate(-1355.000000, -5.000000)">
+            <g id="Social-icons" transform="translate(1285.000000, 5.000000)">
+                <g id="Facebook" transform="translate(70.000000, 0.000000)">
+                    <rect id="icon-base" fill="#1977F2" x="0" y="0" width="30" height="30" rx="3"></rect>
+                    <path d="M19,23 L19,16 L21,16 L22,13 L19,13 L19,11 C19,10.4477153 19.4477153,10 20,10 L22,10 L22,7.3 C20,7 20,7 19,7 C17.3431458,7 16,8.34314575 16,10 L16,13 L14,13 L14,16 L16,16 L16,23 L19,23 Z" id="icon" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

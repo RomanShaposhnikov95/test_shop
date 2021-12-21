@@ -1,0 +1,54 @@
+.homePage {
+  margin-bottom: 140px;
+  &-slider {
+    display: flex;
+    justify-content: space-between;
+    &-info {
+      width: 290px;
+      height: 400px;
+      border-radius: 7px;
+      background-color: #F0F2F5;
+      overflow: hidden;
+
+      &-wrapper {
+        padding: 30px 30px 60px;
+        &-title {
+          font-size: 18px;
+          color: #3D454D;
+        }
+
+        &-item {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          margin-top: 20px;
+
+          &-wrap {
+            &-title {
+              font-size: 13px;
+              color: #737980;
+            }
+
+            &-info {
+              font-size: 15px;
+              color: #3D454D;
+            }
+          }
+        }
+      }
+      &-design {
+        position: relative;
+        &-rocket {
+          right: 20px;
+          float: right;
+          width: 70px;
+          position: absolute;
+        }
+
+        &-cloud {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
